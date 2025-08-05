@@ -35,7 +35,6 @@ password-tool/
 ├── generator.py   → Genera contraseñas seguras personalizadas
 ├── validator.py   → Valida la seguridad de contraseñas existentes
 └── main.py        → Menú principal e interacción con el usuario 
-
 ```
 
 ---
