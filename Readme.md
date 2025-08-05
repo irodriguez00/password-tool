@@ -48,6 +48,15 @@ Durante el desarrollo de este proyecto pude reforzar habilidades como:
 - Diseño de menús interactivos en consola
 - Modularización del código
 
+---
+
+## 🛠️ Tecnologías usadas
+
+- **Python** – Lógica del generador y validador de contraseñas
+- **Visual Studio Code** – Editor utilizado para el desarrollo
+
+---
+
 ## 📌 Autor
 
 **Ignacio Rodriguez**  
