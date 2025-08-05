@@ -86,7 +86,7 @@ password_tool/
 
 ---
 
-## 🧠 Aprendizajes
+## 💡 Aprendizajes
 
 Durante el desarrollo de este proyecto pude reforzar habilidades como:
 
