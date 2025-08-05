@@ -32,9 +32,10 @@ Cada opción guía al usuario paso a paso para crear o verificar contraseñas de
 ```
 password-tool/
 │
-├── generator.py   # Genera contraseñas seguras personalizadas
-├── validator.py   # Valida la seguridad de contraseñas existentes
-└── main.py        # Menú principal e interacción con el usuario 
+├── generator.py   → Genera contraseñas seguras personalizadas
+├── validator.py   → Valida la seguridad de contraseñas existentes
+└── main.py        → Menú principal e interacción con el usuario 
+
 ```
 
 ---
