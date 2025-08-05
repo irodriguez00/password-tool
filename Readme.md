@@ -53,8 +53,6 @@ password-tool/
 ├── validator.py   → Lógica para validar contraseñas existentes
 └── main.py        → Menú principal con interacción por consola
 
->>>>>>> 5f8b1ab (Readme.md)
-
 ---
 
 ## 💡 Aprendizajes
