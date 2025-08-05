@@ -1,6 +1,6 @@
 # 🛡️ Password Tool - Generador y Validador de Contraseñas en Python
 
-Proyecto desarrollado en Python que permite generar contraseñas seguras y validar el nivel de seguridad de contraseñas existentes.
+Proyecto desarrollado en Python que permite generar contraseñas seguras y validar la robustez de contraseñas existentes.
 
 ---
 
@@ -32,9 +32,9 @@ Cada opción guía al usuario paso a paso para crear o verificar contraseñas de
 ```
 password-tool/
 │
-├── generator.py   → Genera contraseñas seguras personalizadas
-├── validator.py   → Valida la seguridad de contraseñas existentes
-└── main.py        → Menú principal e interacción con el usuario 
+├── generator.py   # Genera contraseñas seguras personalizadas
+├── validator.py   # Valida la seguridad de contraseñas existentes
+└── main.py        # Menú principal e interacción con el usuario 
 ```
 
 ---
@@ -47,15 +47,24 @@ Durante el desarrollo de este proyecto pude reforzar habilidades como:
 - Validación de entradas del usuario (`try/except`)
 - Diseño de menús interactivos en consola
 - Modularización del código
+=======
+password-tool/
+├── generator.py   → Lógica para generar contraseñas seguras
+├── validator.py   → Lógica para validar contraseñas existentes
+└── main.py        → Menú principal con interacción por consola
+
+>>>>>>> 5f8b1ab (Readme.md)
 
 ---
 
-## 🛠️ Tecnologías usadas
+## 💡 Aprendizajes
 
-- **Python** – Lenguaje de programación utilizado para toda la lógica del proyecto
-- **Visual Studio Code** – Editor de código utilizado 
+Durante el desarrollo de este proyecto pude reforzar habilidades como:
 
----
+- Programación estructurada en Python
+- Validación de entradas del usuario (`try/except`)
+- Diseño de menús interactivos en consola
+- Modularización del código
 
 ## 📌 Autor
 
