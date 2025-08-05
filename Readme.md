@@ -61,15 +61,21 @@ Este proyecto es una herramienta de consola desarrollada en Python que permite:
 - ✅ Generar contraseñas seguras personalizadas
 - ✅ Validar la seguridad de contraseñas existentes
 
+Ideal para usuarios que buscan mejorar su seguridad digital de forma sencilla y rápida.
+
 ---
 
-## 🚀 ¿Cómo funciona?
+## ⚙️ ¿Cómo funciona?
 
-Al ejecutar `main.py`, se abre un menú interactivo con estas opciones:
+Al ejecutar `main.py`, se despliega un menú interactivo con las siguientes opciones:
 
 1. Generar contraseña
 2. Validar contraseña
 3. Salir
+
+Cada opción guía al usuario paso a paso para crear o verificar contraseñas de forma intuitiva.
+
+---
 
 ## 📦 Estructura del proyecto
 
@@ -77,6 +83,17 @@ password_tool/
 ├── generator.py # Lógica para generar contraseñas
 ├── validator.py # Lógica para validar contraseñas
 ├── main.py # Menú interactivo
+
+---
+
+## 🧠 Aprendizajes
+
+Durante el desarrollo de este proyecto pude reforzar habilidades como:
+
+- Programación estructurada en Python
+- Validación de entradas del usuario (`try/except`)
+- Diseño de menús interactivos en consola
+- Modularización del código
 
 ## 📌 Autor
 
