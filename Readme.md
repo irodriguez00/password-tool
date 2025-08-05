@@ -1,6 +1,6 @@
 # 🛡️ Password Tool - Generador y Validador de Contraseñas en Python
 
-Proyecto desarrollado en Python que permite generar contraseñas seguras y validar la robustez de contraseñas existentes.
+Proyecto desarrollado en Python que permite generar contraseñas seguras y validar el nivel de seguridad de contraseñas existentes.
 
 ---
 
@@ -52,8 +52,8 @@ Durante el desarrollo de este proyecto pude reforzar habilidades como:
 
 ## 🛠️ Tecnologías usadas
 
-- **Python** – Lógica del generador y validador de contraseñas
-- **Visual Studio Code** – Editor utilizado para el desarrollo
+- **Python** – Lenguaje de programación utilizado para toda la lógica del proyecto
+- **Visual Studio Code** – Editor de código utilizado 
 
 ---
 
