@@ -4,7 +4,7 @@ Proyecto desarrollado en Python que permite generar contraseñas seguras y valid
 
 ---
 
-## 📌 Descripción
+## 📄 Descripción
 
 Esta herramienta interactiva ayuda a:
 
